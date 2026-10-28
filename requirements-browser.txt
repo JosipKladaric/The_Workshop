@@ -1,0 +1,2 @@
+# Optional UI tools; uses an installed Edge/Chrome/Chromium executable.
+playwright>=1.48,<2
